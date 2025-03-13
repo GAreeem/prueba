@@ -3,5 +3,6 @@ NAME_ARCHIVE: archive.txt
 
 PROYECTO_NAME: Garem
 
+{-------- Seccion: Info Trabajador 1 --------------------}
 NAME: trabajador 1
 DESCRIPTION: Modificacion de archivo txt por trabajador 1
