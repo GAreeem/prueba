@@ -2,3 +2,5 @@ we
 NAME_ARCHIVE: archive.txt
 PROYECTO_NAME: Garem
 
+--------Seccion datos de trabajador 2-----------
+asknldfjnlds
